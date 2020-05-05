@@ -1,0 +1,12 @@
+{
+  "name": "products-manager",
+  "version": "1.0.0",
+  "description": "Product Manager web application for Tailwind Traders",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "dependencies": {
+    "@azure/cosmos": "^3.6.2"
+  }
+}
