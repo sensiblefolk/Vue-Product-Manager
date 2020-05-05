@@ -21,8 +21,7 @@ Outline the file contents of the repository. It helps users navigate the codebas
 | `frontend`        | The frontend website for the Products Manager application. |
 | `api`             | An empty folder where the user will create the API project |
 | `.gitignore`      | Define what to ignore at commit time.                      |
-| `CHANGELOG.md`    | List of changes to the sample.                             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample.                 |
+| `CHANGELOG.md`    | List of changes to the sample.                    |
 | `README.md`       | This README file.                                          |
 | `LICENSE`         | The license for the sample.                                |
 
